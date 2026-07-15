@@ -1,0 +1,31 @@
+# Gradle
+.gradle/
+build/
+
+# IDEs/editors
+.idea/
+.vscode/
+.settings/
+.classpath
+.project
+*.iml
+*.ipr
+*.iws
+*.launch
+bin/
+out/
+classes/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and JVM diagnostics
+*.log
+hs_err_*.log
+replay_*.log
+*.hprof
+*.jfr
+
+# Minecraft/Fabric runtime output
+run/

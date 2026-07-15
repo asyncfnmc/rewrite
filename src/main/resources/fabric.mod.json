@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "rewrite",
+  "version": "${version}",
+  "name": "Rewrite",
+  "description": "Create short, client-side aliases for server commands.",
+  "authors": ["Sinister"],
+  "contact": {},
+  "license": "LicenseRef-Source-Available-Personal-Use",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["dev.sinister.rewrite.RewriteClient"],
+    "modmenu": ["dev.sinister.rewrite.RewriteModMenu"]
+  },
+  "mixins": ["rewrite.client.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "~26.1.2",
+    "java": ">=25",
+    "fabric-api": "*"
+  },
+  "suggests": { "modmenu": ">=18.0.0" }
+}

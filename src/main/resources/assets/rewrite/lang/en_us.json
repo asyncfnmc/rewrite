@@ -1,0 +1,14 @@
+{
+  "modmenu.descriptionTranslation.rewrite": "Create short, client-side aliases for server commands.",
+  "rewrite.title": "Command rewrites",
+  "rewrite.empty": "No rewrites yet",
+  "rewrite.empty_hint": "Add one to turn /hub into /warp hub.",
+  "rewrite.add": "Add rewrite",
+  "rewrite.alias": "Short command",
+  "rewrite.command": "Full command",
+  "rewrite.save": "Save rewrite",
+  "rewrite.cancel": "Cancel",
+  "rewrite.done": "Done",
+  "rewrite.edit": "Edit",
+  "rewrite.remove": "Remove"
+}
