@@ -8,6 +8,7 @@
     "asyncfn"
   ],
   "license": "Source Available - Personal Use Only, All Rights Reserved",
+  "icon": "assets/rewrite/icon.png",
   "environment": "client",
   "entrypoints": {
     "client": ["dev.sinister.rewrite.RewriteClient"],
