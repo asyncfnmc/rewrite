@@ -4,9 +4,10 @@
   "version": "${version}",
   "name": "Rewrite",
   "description": "Create short, client-side aliases for server commands.",
-  "authors": ["Sinister"],
-  "contact": {},
-  "license": "LicenseRef-Source-Available-Personal-Use",
+  "authors": [
+    "asyncfn"
+  ],
+  "license": "Source Available - Personal Use Only, All Rights Reserved",
   "environment": "client",
   "entrypoints": {
     "client": ["dev.sinister.rewrite.RewriteClient"],
