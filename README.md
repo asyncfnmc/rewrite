@@ -33,6 +33,10 @@ Aliases are stored in `.minecraft/config/rewrite.json`. The same settings screen
 
 The built jar will be in `build/libs/`.
 
+<p align="center">
+  <img src="src/main/resources/assets/rewrite/icon.png" alt="Rewrite icon" width="128" height="128">
+</p>
+
 ## License
 
 Source available for personal, non-commercial use only. See [LICENSE](LICENSE).
